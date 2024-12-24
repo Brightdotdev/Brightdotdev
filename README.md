@@ -30,5 +30,5 @@ Always ready to collaborate on exciting projects in JavaScript, Node.js, and ope
 - 🔍 Curiosity drives my learning; I thrive on solving challenging problems
 
 ## 📫 Let's Connect
-- LinkedIn: [Bright on linkedIn](https://www.linkedin.com/in/akinola-bright-27b2b92a0/)]
+- LinkedIn: [Bright on linkedIn](https://www.linkedin.com/in/akinola-bright-27b2b92a0/)
 - Portfolio: Coming soon!
