@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Bright!
 
-I'm an aspiring full-stack developer and a certified software engineer in the making, passionate about solving problems and building innovative solutions. My journey began as a graphic designer, transitioned into UI/UX design, and now I'm diving deep into web development and data science.
+I'm an aspiring full-stack developer and a certified software engineer in the making, passionate about solving problems and building innovative solutions. My journey began as a graphic designer, transitioned into UI/UX design, and now I'm diving deep into web development and mobile development.
 
 ## 🌟 What I'm Up To
-- 🔨 **Building**: Cloning websites like Atlassian and Flutterwave to master React.
+- 🔨 **Perfecting**: Building self made projects to help master problem solving skills.
 - 🎓 **Learning**: Advancing in React and exploring Next.js.
 - 🔍 **Exploring**: Blockchain development, utility tokens, and diving into data science (especially predictive models).
 - 🛠️ **Experimenting**: With APIs, asynchronous calls, and multithreading for real-time experiences.
 
 ## 🧰 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, SQLite, API integrations
-- **Tools & Platforms**: Vite, GSAP, Figma, Git
-- **Languages to Learn**: C, Rust, Python
+- **Frontend**: ReactJs, Tailwind CSS, Scene builder with java
+- **Backend**: Node.js, SQLite, API integrations, spring boot
+- **Tools & Platforms**: Vite, GSAP, Figma, Git, Spring ,expo
 
 ## 🏆 Accomplishments
 - 🖥️ Collaborated and oversaw building a facebook clone
