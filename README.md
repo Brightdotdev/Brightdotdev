@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bright!
 
-I'm a junior software develope, i just love building (cool stuff)
+I'm a junior software developer, i just love building (cool stuff)
 
 ## 🌟 What I'm Up To
 - 🔨 **Perfecting**: Building self made projects to help master problem solving skills.
