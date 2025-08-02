@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Bright
 
 I'm a junior software developer focused on building purposeful, high-impact software — and constantly improving through every project I take on
@@ -32,6 +30,7 @@ Open to meaningful collaborations in Spring Boot, JavaScript, Node.js, and open 
 ## 📫 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/akinola-bright-27b2b92a0/)
+
 * Portfolio: Coming soon
 
 ---
