@@ -1,6 +1,6 @@
 ---
 
-👋 Hi, I'm Bright
+# 👋 Hi, I'm Bright
 
 I'm a junior software developer focused on building purposeful, high-impact software — and constantly improving through every project I take on
 
