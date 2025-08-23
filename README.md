@@ -1,4 +1,4 @@
-# Hi, I’m Bright
+# Hello and Welcome
 
 I’m a junior software developer focused on building practical, impactful software and continuously improving with each project.
 
@@ -23,8 +23,7 @@ I’m a junior software developer focused on building practical, impactful softw
 * Gained practical system design experience through academic and personal projects
 
 ## Let’s Connect
-
-Open to collaborations in Spring Boot, JavaScript, Node.js, and open source projects. Reach out with ideas.
+I am definately open to collaborations in Spring Boot, JavaScript, Node.js, and open source projects. Reach out with ideas.
 
 * [LinkedIn](https://www.linkedin.com/in/brightdotdev/)
 
