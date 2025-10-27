@@ -1,40 +1,39 @@
-# 👋 Hey, Welcome to My GitHub
+# 👋 Hey, I’m Bright
 
-I’m Bright — a junior software developer who loves building practical tools and experimenting with new ideas.
-This is where I share my projects, experiments, and learning journey.
-
----
-
-## 🔥 What I’m Exploring
-
-* Building hands-on projects to sharpen my skills in problem-solving and architecture
-* Deep-diving into full stack development and real-time systems
-* Playing with APIs, async logic, and multithreading for fun
+I build practical tools and systems that make everyday problems easier to solve.  
+My GitHub is where I experiment, document my learning process, and share what I’m building next.
 
 ---
 
-## 🛠️ Tech I Work With
+## 🚀 What I’m Currently Exploring
 
-**Frontend:** React, Tailwind CSS, JavaFX, Electron
-**Backend:** Spring Boot, Node.js, Next.js, REST APIs
-**Tools:** Whatever gets the job done
-
----
-
-## 📂 Some Cool Stuff I’ve Done
-
-* Built a Facebook clone with a team
-* Designed sticky headers and scroll-triggered UI elements
-* Created a live dictionary suggestion system in JavaFX
-* Hosted webinars on cloning websites with React
-* Explored system design through academic and personal projects
+- Building **offline-first and real-time apps** with solid architecture  
+- Exploring **local-first design**, **background sync**, and **API orchestration**  
+- Strengthening my understanding of **system design**, **asynchronous logic**, and **multithreading**
 
 ---
 
-## 💬 Let’s Chat
+## 🛠️ Tech Stack
 
-Always down to connect, get feedback, or collaborate — especially on Spring Boot, JavaScript, Node.js, or open-source projects.
+**Frontend:** React, Next.js, Tailwind CSS, JavaFX, Electron  
+**Backend:** Spring Boot, Node.js, REST APIs  
+**Other Tools:** Docker, PostgreSQL, SQLite, Convex, Kinde
 
-📌 [LinkedIn](https://dub.sh/Brightdotdev-linkedin)
-📌 [Twitter(X)](https://dub.sh/Brightdotdev-twitter)
+---
 
+## 🧩 Featured Projects
+
+- 🚗 **Vehicle Tracking System** – A dispatch and tracking app that calculates vehicle safety scores, manages classified dispatches, and enforces safety rules before deployment.  
+- 🔍 **JSON Visualizer** – Turns raw JSON data into an interactive graph using React Flow, helping developers *see* data structures.  
+- 💬 **RoomDB (in progress)** – An offline-first shared workspace for roommates; part Notion, part Slack, built around local databases and background sync.  
+- 📖 **Dictionary Suggestion Engine** – A JavaFX experiment that offered real-time word suggestions from a local data source.  
+- 🎓 **Facebook Clone** – Built with a team to explore full-stack collaboration and user experience optimization.
+
+---
+
+## 💬 Let’s Connect
+
+hey i am always open to conversations, collaboration, or feedback — especially around **Spring Boot**, **Node.js**, or **React** ecosystems.
+
+📌 [LinkedIn](https://dub.sh/Brightdotdev-linkedin)  
+📌 [Twitter (X)](https://dub.sh/Brightdotdev-twitter)
