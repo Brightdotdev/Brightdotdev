@@ -1,39 +1,39 @@
 # 👋 Hey, I’m Bright
 
-I build practical tools and systems that make everyday problems easier to solve.  
-My GitHub is where I experiment, document my learning process, and share what I’m building next.
+I'm a software developer, i build tools and systems that solve problems fast and smart.
+Here, I share experiments, projects, and ideas I’m exploring next.
 
 ---
 
-## 🚀 What I’m Currently Exploring
+## Focus Areas
 
-- Building **offline-first and real-time apps** with solid architecture  
-- Exploring **local-first design**, **background sync**, and **API orchestration**  
-- Strengthening my understanding of **system design**, **asynchronous logic**, and **multithreading**
+**AI & Automation** – Intelligent agents, automated workflows, smarter apps
+**Offline & Real-Time Apps** – Reliable, local-first design with background sync
+**API Orchestration** – Seamless integration and data flow
+**System Design** – Scalable, asynchronous, multithreaded architecture
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Frontend:** React, Next.js, Tailwind CSS, JavaFX, Electron  
-**Backend:** Spring Boot, Node.js, REST APIs  
+**Frontend:** React, Next.js, Tailwind CSS, JavaFX, Electron
+**Backend:** Spring Boot, Node.js, Go, REST APIs
+**Python & AI:** Python, NumPy, LangChain
 **Other Tools:** Docker, PostgreSQL, SQLite, Convex, Kinde
 
 ---
 
-## 🧩 Featured Projects
+## Spotlight Projects
 
-- 🚗 **Vehicle Tracking System** – A dispatch and tracking app that calculates vehicle safety scores, manages classified dispatches, and enforces safety rules before deployment.  
-- 🔍 **JSON Visualizer** – Turns raw JSON data into an interactive graph using React Flow, helping developers *see* data structures.  
-- 💬 **RoomDB (in progress)** – An offline-first shared workspace for roommates; part Notion, part Slack, built around local databases and background sync.  
-- 📖 **Dictionary Suggestion Engine** – A JavaFX experiment that offered real-time word suggestions from a local data source.  
-- 🎓 **Facebook Clone** – Built with a team to explore full-stack collaboration and user experience optimization.
+* 🚗 **[Vehicle Tracking System](https://github.com/Brightdotdev/VehicleTrackingSystem)** – Tracks and dispatches vehicles, enforces safety rules, calculates scores
+* 🔍 **[JSON Visualizer](https://json-visualisser.vercel.app/)** – Turns raw JSON into interactive graphs for developers
+* 📖 **[Dictionary Suggestion Engine](https://github.com/Brightdotdev/MultithreadingJava)** – JavaFX app delivering real-time word suggestions
 
 ---
 
-## 💬 Let’s Connect
+## 💬 Connect
 
-hey i am always open to conversations, collaboration, or feedback — especially around **Spring Boot**, **Node.js**, or **React** ecosystems.
+Collaboration, feedback, or ideas around **AI systems**, **React**, **Node.js**, **Go**, and **Spring Boot** are welcome.
 
-📌 [LinkedIn](https://dub.sh/Brightdotdev-linkedin)  
+📌 [LinkedIn](https://dub.sh/Brightdotdev-linkedin)
 📌 [Twitter (X)](https://dub.sh/Brightdotdev-twitter)
